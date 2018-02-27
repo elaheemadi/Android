@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\2ec4d35951546088c243bf68b616e493842a2651\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1920a1a356f94ae367cf8cdece110fac854f823e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\c66a17dd1c3b22998931f7801da1ed1a0019d555\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59f5b570889ecbaee04e2bba931e1bf9915ded39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\358e42280a3fdb83f0df13add5e6abb8a3ddf53e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40bf1e65fc58338ba34303270fe4f0a47cd401d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\3ee6596b792578f7b444073bd74150ce9f9e5258\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91fd70506ff9da1fa096a915d24f7b731d9d07f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\0bbb96855c0c5e8b9b5845658fc2080f2c588ca9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e22b1c2b0cf044f931d6cbd6f995660cdf28b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\a9300c8462edac3035b164423feac478bd677ae5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3da0036542bf2320235dc67306fe1474c43f5c8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\Fives\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f2bb4ebcf0b7fd8beb9aea515a67eb17e3dcd2e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\Fives\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_aa2b28e3b2200bd24952877cf125ceb10af5eabe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\d64235513665b48cbfa0fc9b8744a7324a51d82c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c14a365d390d4b38eec5039e70de068e4c0c28a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\Fives\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_aa2b28e3b2200bd24952877cf125ceb10af5eabe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\ee2fd536485e7f97f60c8f606006818cfb5e2539\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4b8f5d2fc23d868bf637d2f80472803c9187a3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\22db5e0958c0e3138c34e8e9cd2ca46c3e709efb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b65e571f561411388f09a0bddbf264c794b35c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_02c7ec1a98e0c356c100f4c22b453baaf3e03189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\33b9e5a5583174daf1c591c53116131540913b42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bacae49d9034b58a8346c60b6d09e83773b2475d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_780d08141869a24e758a33f273c39ba67d0bd6b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\6ce3c4dca79e895104b8dfb319ef80c6698828fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7a5e85f47373767f13e50eb5f4bc5d81305cc15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\c2e31a82c2a306c8bc7e63c3e01545d2a9929075\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1c3bce3840f59af473219b99b6ec85e4cf3448d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\de52e10314a72a150585d44310f68ffb6b7ac025\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_007941fedb9375636f7ad1ee21cb49c81a3f9e97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\Fives\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f309aa2d63db144f41a428dd857add86e4120b78">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9fef2b985e9470c1c19f9f3163a6d0bc7eca9cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\Fives\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_946074ea46414a484d0cddb2b7ff730f04c326a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\a7795a4cb2bfe116d25f04c351df1f50e8d9860a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c3b01894f92180c2f6209ea96b9df1f24ea1a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\Fives\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_a761c17a0214890daa8ed1e1aa9d9d6a22276f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\c3acae2720371d9f0782a2ec3a95212a1f8ca923\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_497bf9fdcc731e7273dadb65b200c65be793b770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\2dc7d8317e16b31c73967a7b0cb3f034ef2eb05f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c83379c46a26d1c01f074862e2dd4f8c80cbdd88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\Fives\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_a761c17a0214890daa8ed1e1aa9d9d6a22276f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\9798238c8a6c1b21280e8ab773f0946d163bc748\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8e6aeb574d5ccf1323cb7f549e50c4785547014\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\Fives\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_946074ea46414a484d0cddb2b7ff730f04c326a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bhajian\.android\build-cache\b6751b0c06fbfd4a9281e6e3066432f853b33f7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\Project\Android\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a510425d55de4caca2a672ce1f80537ae2f74093\classes.dex" />
+    </item>
+
+</items>

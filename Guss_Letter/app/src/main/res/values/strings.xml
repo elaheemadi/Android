@@ -1,0 +1,56 @@
+<resources>
+
+
+
+    <string name="app_name">Guess Letter</string>
+
+    <string name="ADMOB_BANNER_UNIT_ID" translatable="false">ca-app-pub-9733347540588953/7805958028</string>
+
+
+    <string-array name="words">
+        <item>draft</item>
+        <item>flask</item>
+        <item>drama</item>
+        <item>heart</item>
+        <item>space</item>
+        <item>shack</item>
+        <item>piano</item>
+        <item>grams</item>
+        <item>sharp</item>
+        <item>foams</item>
+        <item>chang</item>
+        <item>grave</item>
+        <item>craft</item>
+        <item>beard</item>
+        <item>beats</item>]
+        <item>drawn</item>
+
+    </string-array>
+
+    <string name="bestHome">BEST</string>
+
+    <string name="share1">My best score on #Fives is</string>
+    <string name="share2">Can you beat it? :)</string>
+    <string name="shareGameOver1">I have just made </string>
+    <string name="shareGameOver2">as score on #Fives</string>
+
+    <string name="score">Score</string>
+
+    <string name="youCouldMade">You could have made</string>
+    <string name="youScored">Your Score</string>
+    <string name="orOther">Or other</string>
+    <string name="word">Word</string>
+    <string name="playAgain">Try Again</string>
+
+    <string-array name="random_circles">
+        <item>@drawable/circle_corner_blue</item>
+        <item>@drawable/circle_corner_dark_purple</item>
+        <item>@drawable/circle_corner_green</item>
+        <item>@drawable/circle_corner_orange</item>
+        <item>@drawable/circle_corner_purple</item>
+        <item>@drawable/circle_corner_white</item>
+    </string-array>
+
+
+
+</resources>

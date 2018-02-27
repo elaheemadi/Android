@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/hLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FF490B01"
+        tools:context=".Home"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            app:srcCompat="@drawable/logo_home" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/hBestTxt"
+            android:layout_alignStart="@+id/hBestTxt"
+            android:layout_marginBottom="16dp"
+            android:text="@string/bestHome"
+            android:textAllCaps="true"
+            android:textColor="#fff"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/hBestTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="00"
+            android:textColor="#fff"
+            android:textSize="32sp" />
+
+        <Button
+            android:id="@+id/hPlayButt"
+            android:layout_width="140dp"
+            android:layout_height="54dp"
+            android:layout_below="@+id/hBestTxt"
+            android:layout_marginEnd="64dp"
+            android:layout_toStartOf="@+id/hBestTxt"
+            android:background="@drawable/play_butt" />
+
+        <Button
+            android:id="@+id/hShareButt"
+            android:layout_width="140dp"
+            android:layout_height="54dp"
+            android:layout_below="@+id/hBestTxt"
+            android:layout_marginStart="62dp"
+            android:layout_toEndOf="@+id/textView"
+            android:background="@drawable/share_butt" />
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>
